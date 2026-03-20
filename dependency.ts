@@ -47,7 +47,7 @@ export class PluginDependencyManager {
   constructor(
     public readonly dependentPlugin: Plugin
   ) {
-    console.log("new!!!")
+    console.log("new v2!!!!!!!")
 
     // Initialize attributes
     this._status = "unloaded";
